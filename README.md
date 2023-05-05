@@ -15,7 +15,17 @@ Technologies Used
 Files
 
 1. ipl_analysis.ipynb - Jupyter notebook containing the code and analysis.
+![Screenshot 2023-05-05 161624](https://user-images.githubusercontent.com/78349737/236438778-7792b253-90e7-4ed8-bac3-80e50ed07f4d.png)
+![Screenshot 2023-05-05 161645](https://user-images.githubusercontent.com/78349737/236438803-2335f9c5-f06b-4a58-b9d8-6160ed8ec4ef.png)
+![Screenshot 2023-05-05 161702](https://user-images.githubusercontent.com/78349737/236438825-8684708a-a121-4475-852b-a26935d7488b.png)
+![Screenshot 2023-05-05 161713](https://user-images.githubusercontent.com/78349737/236438901-b07f9e9a-5278-4109-bbeb-9b7191de9e4a.png)
+![Screenshot 2023-05-05 161728](https://user-images.githubusercontent.com/78349737/236438909-f99b64de-c5c1-4c99-a658-9e0850870f6a.png)
+![Screenshot 2023-05-05 161743](https://user-images.githubusercontent.com/78349737/236438921-b52a0e90-3709-4e71-ace2-9e20e4a422e2.png)
+![Screenshot 2023-05-05 161803](https://user-images.githubusercontent.com/78349737/236438945-99bae57b-10a9-4dfe-a4dc-2b8b5d93a4e6.png)
 2. matches.csv - CSV file containing information about the matches played in IPL.
+![Screenshot 2023-05-05 162044](https://user-images.githubusercontent.com/78349737/236439369-1b1cda9b-2a40-4e0b-8f2e-97ec606ea331.png)
+![Screenshot 2023-05-05 162101](https://user-images.githubusercontent.com/78349737/236439395-ee78f3f5-bb1f-4fb6-83b5-a6587bbb5823.png)
+![Screenshot 2023-05-05 162119](https://user-images.githubusercontent.com/78349737/236439425-5a87f593-244f-432e-b918-c266537e489a.png)
 3. deliveries.csv - CSV file containing information about the deliveries bowled in IPL.
 
 Analysis
