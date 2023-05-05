@@ -6,11 +6,11 @@ Data Source
 The data used in this project is sourced from Kaggle.
 
 Technologies Used
-Python 3.8
-Pandas 1.2.4
-Numpy 1.20.3
-Matplotlib 3.4.2
-Seaborn 0.11.1
+1. Python 3.8
+2. Pandas 1.2.4
+3. Numpy 1.20.3
+4. Matplotlib 3.4.2
+5. Seaborn 0.11.1
 Files
 ipl_analysis.ipynb - Jupyter notebook containing the code and analysis.
 matches.csv - CSV file containing information about the matches played in IPL.
