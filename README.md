@@ -3,6 +3,8 @@
 
 ![Screenshot 2023-05-05 170720](https://user-images.githubusercontent.com/78349737/236448374-36dc2e43-51ff-420e-aebf-1f11e1fee6b8.png)
 
+![Screenshot 2023-05-06 085536](https://user-images.githubusercontent.com/78349737/236596585-ff85549d-f34a-4ab9-81c6-ab1a0de5b964.png)
+
 
 This project aims to analyze the Indian Premier League (IPL) cricket tournament data and provide insights into the performance of teams and players.
 
