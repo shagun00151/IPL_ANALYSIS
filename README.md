@@ -6,7 +6,7 @@
 ![Screenshot 2023-05-06 085536](https://user-images.githubusercontent.com/78349737/236596585-ff85549d-f34a-4ab9-81c6-ab1a0de5b964.png)
 
 
-This project aims to analyze the Indian Premier League (IPL) cricket tournament data and provide insights into the performance of teams and players.
+This Project aims to analyze the Indian Premier League (IPL) cricket tournament data and provide insights into the performance of teams and players.
 
 Data Source
 The data used in this project is sourced from Kaggle.
